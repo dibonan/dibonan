@@ -1,4 +1,5 @@
 ## Hello world
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue)](www.linkedin.com/in/dibonan-anicet-toure-382b30217)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dibonan.dibonan)
 <!--
 **
